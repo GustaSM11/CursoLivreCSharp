@@ -26,3 +26,4 @@ C:\Users\gustavo.smafra\Documents\Visual Studio 2022\EmpresaCLivre\Padaria\obj\D
 C:\Users\gustavo.smafra\Documents\Visual Studio 2022\EmpresaCLivre\Padaria\obj\Debug\Padaria.csproj.CoreCompileInputs.cache
 C:\Users\gustavo.smafra\Documents\Visual Studio 2022\EmpresaCLivre\Padaria\obj\Debug\Padaria.exe
 C:\Users\gustavo.smafra\Documents\Visual Studio 2022\EmpresaCLivre\Padaria\obj\Debug\Padaria.pdb
+C:\Users\gustavo.smafra\Documents\Visual Studio 2022\EmpresaCLivre\Padaria\obj\Debug\Padaria.frmGerenciaFuncionarios.resources

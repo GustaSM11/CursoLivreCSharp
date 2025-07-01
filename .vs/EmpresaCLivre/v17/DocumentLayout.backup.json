@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\gustavo.smafra\\Documents\\Visual Studio 2022\\EmpresaCLivre\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78C8A219-7D71-44A4-8760-71DC01D80B47}|Heranca\\Heranca.csproj|c:\\users\\gustavo.smafra\\documents\\visual studio 2022\\empresaclivre\\heranca\\frmconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78C8A219-7D71-44A4-8760-71DC01D80B47}|Heranca\\Heranca.csproj|solutionrelative:heranca\\frmconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2A7BDC1-4212-485C-B057-F6E86FC37A27}|Padaria\\Padaria.csproj|c:\\users\\gustavo.smafra\\documents\\visual studio 2022\\empresaclivre\\padaria\\frmgerenciafuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2A7BDC1-4212-485C-B057-F6E86FC37A27}|Padaria\\Padaria.csproj|solutionrelative:padaria\\frmgerenciafuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78C8A219-7D71-44A4-8760-71DC01D80B47}|Heranca\\Heranca.csproj|c:\\users\\gustavo.smafra\\documents\\visual studio 2022\\empresaclivre\\heranca\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78C8A219-7D71-44A4-8760-71DC01D80B47}|Heranca\\Heranca.csproj|solutionrelative:heranca\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78C8A219-7D71-44A4-8760-71DC01D80B47}|Heranca\\Heranca.csproj|c:\\users\\gustavo.smafra\\documents\\visual studio 2022\\empresaclivre\\heranca\\frmconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{78C8A219-7D71-44A4-8760-71DC01D80B47}|Heranca\\Heranca.csproj|solutionrelative:heranca\\frmconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78C8A219-7D71-44A4-8760-71DC01D80B47}|Heranca\\Heranca.csproj|c:\\users\\gustavo.smafra\\documents\\visual studio 2022\\empresaclivre\\heranca\\poupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78C8A219-7D71-44A4-8760-71DC01D80B47}|Heranca\\Heranca.csproj|solutionrelative:heranca\\poupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2A7BDC1-4212-485C-B057-F6E86FC37A27}|Padaria\\Padaria.csproj|c:\\users\\gustavo.smafra\\documents\\visual studio 2022\\empresaclivre\\padaria\\frmgerenciafuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2A7BDC1-4212-485C-B057-F6E86FC37A27}|Padaria\\Padaria.csproj|solutionrelative:padaria\\frmgerenciafuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +18,31 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Conta.cs",
-              "DocumentMoniker": "C:\\Users\\gustavo.smafra\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Heranca\\Conta.cs",
-              "RelativeDocumentMoniker": "Heranca\\Conta.cs",
-              "ToolTip": "C:\\Users\\gustavo.smafra\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Heranca\\Conta.cs",
-              "RelativeToolTip": "Heranca\\Conta.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA5wAsAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T19:12:59.172Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Poupanca.cs",
-              "DocumentMoniker": "C:\\Users\\gustavo.smafra\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Heranca\\Poupanca.cs",
-              "RelativeDocumentMoniker": "Heranca\\Poupanca.cs",
-              "ToolTip": "C:\\Users\\gustavo.smafra\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Heranca\\Poupanca.cs",
-              "RelativeToolTip": "Heranca\\Poupanca.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T19:11:55.207Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "frmConta.cs",
-              "DocumentMoniker": "C:\\Users\\gustavo.smafra\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Heranca\\frmConta.cs",
-              "RelativeDocumentMoniker": "Heranca\\frmConta.cs",
-              "ToolTip": "C:\\Users\\gustavo.smafra\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Heranca\\frmConta.cs",
-              "RelativeToolTip": "Heranca\\frmConta.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAD4vzYAAAAQAAAAAAAAAA==",
+              "Title": "frmGerenciaFuncionarios.cs",
+              "DocumentMoniker": "C:\\Users\\gustavo.smafra\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Padaria\\frmGerenciaFuncionarios.cs",
+              "RelativeDocumentMoniker": "Padaria\\frmGerenciaFuncionarios.cs",
+              "ToolTip": "C:\\Users\\gustavo.smafra\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Padaria\\frmGerenciaFuncionarios.cs",
+              "RelativeToolTip": "Padaria\\frmGerenciaFuncionarios.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAD4v60AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T19:07:35.709Z",
+              "WhenOpened": "2025-07-01T17:34:13.735Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmConta.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\gustavo.smafra\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Heranca\\frmConta.cs",
-              "RelativeDocumentMoniker": "Heranca\\frmConta.cs",
-              "ToolTip": "C:\\Users\\gustavo.smafra\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Heranca\\frmConta.cs [Design]",
-              "RelativeToolTip": "Heranca\\frmConta.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "frmGerenciaFuncionarios.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gustavo.smafra\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Padaria\\frmGerenciaFuncionarios.cs",
+              "RelativeDocumentMoniker": "Padaria\\frmGerenciaFuncionarios.cs",
+              "ToolTip": "C:\\Users\\gustavo.smafra\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Padaria\\frmGerenciaFuncionarios.cs [Design]",
+              "RelativeToolTip": "Padaria\\frmGerenciaFuncionarios.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T19:06:22.845Z",
+              "WhenOpened": "2025-07-01T17:21:53.021Z",
               "EditorCaption": " [Design]"
             }
           ]
